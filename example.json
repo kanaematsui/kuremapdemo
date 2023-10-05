@@ -1,0 +1,5531 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "辰川会館（旧辰川小学校）",
+        "description": "呉市東辰川町6-32",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5722682,
+          34.25766647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "つばき会館",
+        "description": "呉市中央6丁目2-9",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.566474,
+          34.250093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉中央小学校",
+        "description": "呉市西中央4丁目10-52",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5598443,
+          34.25227262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉中央中学校",
+        "description": "呉市西中央4丁目10-52",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5598443,
+          34.25227262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "港町小学校",
+        "description": "呉市海岸3丁目5-30",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5425628,
+          34.24833287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "山手１丁目集会所",
+        "description": "呉市山手1丁目23-16",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5596806,
+          34.25456499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "長迫小学校",
+        "description": "呉市長迫町12-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.577549,
+          34.249776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "東畑中学校",
+        "description": "呉市東畑2丁目7-38",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5879163,
+          34.25339221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "片山中学校",
+        "description": "呉市東片山町13-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.566267,
+          34.254298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "本通小学校",
+        "description": "呉市寺本町1-10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.571973,
+          34.248076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "明立小学校",
+        "description": "呉市伏原2丁目6-38",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5768629,
+          34.25490641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "両城小学校",
+        "description": "呉市三条2丁目15-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.551447,
+          34.247601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "和庄小学校",
+        "description": "呉市八幡町10-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.569096,
+          34.24227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "荘山田小学校",
+        "description": "呉市東中央3丁目1-23",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5698864,
+          34.2535341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "スポーツ会館",
+        "description": "呉市二河町1-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.562996,
+          34.254589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉市体育館",
+        "description": "呉市中央4丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.564007,
+          34.250282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉三津田高等学校",
+        "description": "呉市山手1丁目5-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556774,
+          34.251628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "中央図書館",
+        "description": "呉市中央3丁目10-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.56293,
+          34.2469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "畑老人集会所",
+        "description": "呉市東畑2丁目4-35",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5856337,
+          34.25260074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "二川まちづくりセンター",
+        "description": "呉市築地町3-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5432645,
+          34.2446085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "福祉会館",
+        "description": "呉市中央5丁目12-21",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.565721,
+          34.25022406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "両城中学校",
+        "description": "呉市両城2丁目22-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5488231,
+          34.24845038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "和庄中学校",
+        "description": "呉市和庄登町3-18",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.570701,
+          34.244758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "三条集会所",
+        "description": "呉市三条3丁目7-13",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.55397,
+          34.248915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "山の手会館",
+        "description": "呉市山手2丁目2-1-101",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.560012,
+          34.256467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "新宮町自治会館",
+        "description": "呉市新宮町13-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5373298,
+          34.2484659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "正円寺",
+        "description": "呉市海岸1丁目2-13",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5500488,
+          34.24394284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "川原石集会所",
+        "description": "呉市海岸2丁目5-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5439441,
+          34.24777415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "惣付ふれあい集会所",
+        "description": "呉市西惣付町12-26",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.573281,
+          34.262172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "東愛宕アパート集会室",
+        "description": "呉市東愛宕町1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5540668,
+          34.25048124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "内神自治会館",
+        "description": "呉市内神町16-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.567185,
+          34.257236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "明西寺",
+        "description": "呉市三条3丁目8-9",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5545496,
+          34.24945695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "和庄集会所",
+        "description": "呉市本町22-4",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5699964,
+          34.24312467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "東塩屋町自治会館",
+        "description": "呉市東塩屋町5-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5435647,
+          34.2499927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "北塩屋町自治会館",
+        "description": "呉市北塩屋町9-28",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5421924,
+          34.255566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "吉浦まちづくりセンター",
+        "description": "呉市吉浦東本町1丁目7-23",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5275807,
+          34.2578033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "吉浦小学校",
+        "description": "呉市吉浦中町2丁目6-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5296694,
+          34.26116021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "吉浦中学校",
+        "description": "呉市狩留賀町8-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5174707,
+          34.2648134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "海上保安大学校",
+        "description": "呉市若葉町5-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5270569,
+          34.24640616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "吉浦集会所",
+        "description": "呉市吉浦本町3丁目11-35",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5299135,
+          34.2630755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "勝法寺",
+        "description": "呉市吉浦東町1-14",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5310132,
+          34.25702801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "誓光寺",
+        "description": "呉市吉浦中町2丁目8-30",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.530727,
+          34.261338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "落走集会所",
+        "description": "呉市長谷町22-4",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5221726,
+          34.27550607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "落走自治会館",
+        "description": "呉市汐見町12-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.520505,
+          34.278619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "誓立寺",
+        "description": "呉市汐見町9-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.520946,
+          34.279329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "魚見会館",
+        "description": "呉市吉浦潭鼓町3-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5294467,
+          34.2558414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "宮花町区自治会館",
+        "description": "呉市吉浦宮花町1-27",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5261064,
+          34.259589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "晴海町自治会館",
+        "description": "呉市瀬戸見町1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5318772,
+          34.2468739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "警固屋まちづくりセンター",
+        "description": "呉市警固屋2丁目222",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5440629,
+          34.2134558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "警固屋体育館",
+        "description": "呉市警固屋2丁目222",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5440487,
+          34.2135877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "警固屋中学校",
+        "description": "呉市警固屋7丁目4-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5419003,
+          34.1993644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "警固屋小学校",
+        "description": "呉市警固屋7丁目5-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5422463,
+          34.20024954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "みはらし荘",
+        "description": "呉市警固屋8丁目17-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.545027,
+          34.196986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "警固屋9丁目アパート集会所",
+        "description": "呉市警固屋9丁目7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5545818,
+          34.19707496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "見晴説教場",
+        "description": "呉市見晴2丁目5-57",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.551971,
+          34.198857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "法晃寺",
+        "description": "呉市警固屋5丁目9-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5453791,
+          34.2077851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "法正寺",
+        "description": "呉市的場3丁目7-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.549963,
+          34.21321507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "満行寺",
+        "description": "呉市警固屋4丁目11-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5464493,
+          34.21151824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "警固屋集会所(警固屋支所)",
+        "description": "呉市警固屋6丁目3-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.54102,
+          34.202126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "阿賀まちづくりセンター",
+        "description": "呉市阿賀中央6丁目2-16",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6006662,
+          34.2368526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧)延崎小学校",
+        "description": "呉市阿賀南6丁目4-28",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.593438,
+          34.230502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧)大入小学校",
+        "description": "呉市阿賀南8丁目8-20",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5815165,
+          34.21183321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "阿賀小学校",
+        "description": "呉市阿賀南2丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5990286,
+          34.23320847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "原小学校",
+        "description": "呉市阿賀北4丁目3-16",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5942382,
+          34.24927293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "阿賀中学校",
+        "description": "呉市阿賀中央5丁目14-16",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6006085,
+          34.23462324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉工業高等学校",
+        "description": "呉市阿賀北2丁目10-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5959066,
+          34.25214403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉高等学校",
+        "description": "呉市阿賀中央5丁目13-56",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6029393,
+          34.23362092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉南特別支援学校",
+        "description": "呉市阿賀中央5丁目13-71",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.603974,
+          34.233129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広島文化学園大学　阿賀キャンパス",
+        "description": "呉市阿賀南2丁目10-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5990854,
+          34.2306545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "国立呉工業高等専門学校",
+        "description": "呉市阿賀南2丁目2-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6009169,
+          34.23244563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "阿賀集会所",
+        "description": "呉市阿賀南3丁目12-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5964859,
+          34.233428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "冠崎集会所",
+        "description": "呉市阿賀南9丁目30-26",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.567413,
+          34.199409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "称名寺",
+        "description": "呉市阿賀中央9丁目8-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.594741,
+          34.236575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "情島小学校",
+        "description": "呉市阿賀町12973",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5714334,
+          34.15863159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "西光寺",
+        "description": "呉市阿賀中央8丁目2-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5965717,
+          34.23908249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "東延崎自治会館",
+        "description": "呉市阿賀南4丁目2番14号",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5948055,
+          34.2327834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大誠寺",
+        "description": "呉市阿賀南8丁目17-13",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5780135,
+          34.20837957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大入老人集会所",
+        "description": "呉市阿賀南8丁目15-13",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.579006,
+          34.2079803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広まちづくりセンター",
+        "description": "呉市広古新開2丁目1-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6149604,
+          34.2325553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "横路小学校",
+        "description": "呉市広横路4丁目1-9",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6151031,
+          34.24247501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "横路中学校",
+        "description": "呉市広横路4丁目9-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6151031,
+          34.24247501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉商業高等学校",
+        "description": "呉市広古新開4丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6126865,
+          34.23831971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広島国際大学呉キャンパス",
+        "description": "呉市広古新開5丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.616632,
+          34.23750593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "南横路自治会館",
+        "description": "呉市広横路2丁目1-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6101786,
+          34.23981644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "教法寺",
+        "description": "呉市広古新開6丁目17-27",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6209906,
+          34.23771658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広西集会所",
+        "description": "呉市広横路4丁目1-47",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.616542,
+          34.242806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広小学校",
+        "description": "呉市広杭本町3-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.626992,
+          34.238765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広中央中学校",
+        "description": "呉市広吉松2丁目15-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6300913,
+          34.24298055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "白岳小学校",
+        "description": "呉市広駅前1丁目6-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6285329,
+          34.23179589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "白岳中学校",
+        "description": "呉市広駅前2丁目11-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6326689,
+          34.23069819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "オークアリーナ",
+        "description": "呉市広大新開1丁目7-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6264837,
+          34.23248333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広会館",
+        "description": "呉市広白岳3丁目6-34",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6338035,
+          34.22298726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広高等学校",
+        "description": "呉市広大新開3丁目6-44",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6299116,
+          34.23498912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広中央老人集会所",
+        "description": "呉市広大新開1丁目2-27",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.623917,
+          34.231655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広白岳３丁目自治会館",
+        "description": "呉市広白岳3丁目11-18",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.632633,
+          34.223942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "善通寺支坊",
+        "description": "呉市広中新開2丁目2-10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6246572,
+          34.23901597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "日新製鋼白岳寮",
+        "description": "呉市広両谷1丁目1-46",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.631575,
+          34.231969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）小坪小学校",
+        "description": "呉市広小坪1丁目24-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6344472,
+          34.20778288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広南小学校",
+        "description": "呉市広長浜4丁目1-26",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6251,
+          34.212096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広南中学校",
+        "description": "呉市広長浜4丁目1-9",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6235548,
+          34.21260289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広津久茂自治会館",
+        "description": "呉市広津久茂町7-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6217645,
+          34.2196615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "住蓮寺",
+        "description": "呉市広長浜3丁目8-31",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6231444,
+          34.21405793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "小坪集会所",
+        "description": "呉市広小坪1丁目40-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6362979,
+          34.20680687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "専徳寺",
+        "description": "呉市広長浜3丁目13-21",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.622356,
+          34.215006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "長浜老人集会所",
+        "description": "呉市広長浜2丁目1-17",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.621619,
+          34.212801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "東小坪自治会館",
+        "description": "呉市広小坪2丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6384115,
+          34.20404291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "名田説教場",
+        "description": "呉市広名田2丁目8-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.626738,
+          34.226232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "三坂地小学校",
+        "description": "呉市広中迫町4-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6300457,
+          34.24701145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "石内老人集会所",
+        "description": "呉市広石内2丁目8-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6309952,
+          34.26587298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "広北ふれあい集会所",
+        "description": "呉市広塩焼1丁目2-29",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.630991,
+          34.249605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "徳丸自治会館",
+        "description": "呉市広徳丸町11-17",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.632046,
+          34.257821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "仁方まちづくりセンター",
+        "description": "呉市仁方本町1丁目6-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6520408,
+          34.2239808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "皆実会館",
+        "description": "呉市仁方皆実町1-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6555723,
+          34.21625819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "仁方小学校",
+        "description": "呉市仁方本町1丁目6-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6529706,
+          34.22327335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "仁方中学校",
+        "description": "呉市仁方桟橋通16-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.654022,
+          34.22082487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "戸田自治会館",
+        "description": "呉市仁方町戸田4060-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.652759,
+          34.2069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "実相院",
+        "description": "呉市仁方西神町7-9",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.651659,
+          34.225242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "八岩華神社",
+        "description": "呉市仁方西神町26-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6503688,
+          34.22759793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "神町自治会館",
+        "description": "呉市仁方西神町34-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.648062,
+          34.2276449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "浄徳寺",
+        "description": "呉市仁方中筋町1-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6509804,
+          34.22783966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "中筋自治会館",
+        "description": "呉市仁方中筋町21",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6531473,
+          34.2330103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "仁方大歳自治会館",
+        "description": "呉市仁方大歳町20-37",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.661659,
+          34.22284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "仁方老人集会所",
+        "description": "呉市仁方桟橋通3-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.655009,
+          34.22157451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大東自治会館",
+        "description": "呉市仁方本町1丁目4-20",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6536375,
+          34.2226382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "東側自治会館",
+        "description": "呉市仁方本町1丁目17-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6530725,
+          34.2260977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "宮原まちづくりセンター",
+        "description": "呉市宮原7丁目4-21",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5575,
+          34.229829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "宮原小学校",
+        "description": "呉市宮原4丁目8-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5618666,
+          34.23383824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "宮原中学校",
+        "description": "呉市船見町1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5552201,
+          34.22665541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "坪内小学校",
+        "description": "呉市宮原12丁目13-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.55593,
+          34.223558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉宮原高等学校",
+        "description": "呉市宮原3丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5628483,
+          34.23573419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "清水ヶ丘高等学校",
+        "description": "呉市青山町2-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5666302,
+          34.24115128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "休谷ホーム",
+        "description": "呉市宮原1丁目5-26",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.568216,
+          34.235973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "宮原集会所(宮原支所)",
+        "description": "呉市宮原4丁目10-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.562591,
+          34.233443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "正圓寺",
+        "description": "呉市宮原5丁目7-29",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5629798,
+          34.23270287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "坪ノ内アパート集会所",
+        "description": "呉市坪ノ内町10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5532912,
+          34.2213465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "天応まちづくりセンター",
+        "description": "呉市天応宮町4-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5178431,
+          34.2869146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "天応中学校",
+        "description": "呉市天応東久保2丁目7-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5251043,
+          34.28918466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "天応小学校",
+        "description": "呉市天応大浜2丁目1-64",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.515558,
+          34.288208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉ポートピアパーク",
+        "description": "呉市天応大浜3丁目2-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5111976,
+          34.2914408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "天応ふれあい集会所",
+        "description": "呉市天応宮町4-22",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5180367,
+          34.28723673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "天応西いきいきライフホーム",
+        "description": "呉市天応伝十原町15-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.513021,
+          34.293264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大西自治会館",
+        "description": "呉市天応西条3丁目25-65",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5231002,
+          34.2907502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "福浦集会所",
+        "description": "呉市天応福浦町12-37",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5105238,
+          34.2961871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和市民センター",
+        "description": "呉市焼山中央2丁目8-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5568021,
+          34.2965192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和東まちづくりセンター",
+        "description": "呉市苗代町字八幡野39-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5905415,
+          34.2904336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和西小学校",
+        "description": "呉市焼山宮ヶ迫1丁目3-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5537986,
+          34.29864446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和中央小学校",
+        "description": "呉市焼山中央4丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5606945,
+          34.28918909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）昭和東小学校",
+        "description": "呉市苗代町字八幡野39-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5914192,
+          34.29082674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和南小学校",
+        "description": "呉市焼山此原町14-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5463045,
+          34.28202872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和中学校",
+        "description": "呉市焼山中央6丁目9-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5648654,
+          34.28949934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和北中学校",
+        "description": "呉市焼山泉ヶ丘2丁目11-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556183,
+          34.31134671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和体育館",
+        "description": "呉市焼山中央2丁目8-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5583154,
+          34.29661144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉昭和高等学校",
+        "description": "呉市焼山町山の神",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.540307,
+          34.28925779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和北小学校",
+        "description": "呉市焼山本庄1丁目6-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5547802,
+          34.30630415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉特別支援学校",
+        "description": "呉市焼山北3丁目22-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.553647,
+          34.307927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "円福寺",
+        "description": "呉市焼山西3丁目19-14",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5548875,
+          34.29630232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "押込集会所",
+        "description": "呉市押込3丁目5-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5652757,
+          34.31791974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "呉二河峡ゴルフセンター",
+        "description": "呉市焼山松ヶ丘2丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5505665,
+          34.27953763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "桜ケ丘老人集会所",
+        "description": "呉市焼山桜ヶ丘2丁目6-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5550672,
+          34.283405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和西ふれあい集会所",
+        "description": "呉市焼山西3丁目4-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.551592,
+          34.293198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和中央集会所",
+        "description": "呉市焼山中央4丁目4-18",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5601527,
+          34.29150484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "昭和南いきいきライフホーム",
+        "description": "呉市焼山ひばりヶ丘町19-28",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.547598,
+          34.281144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "神山集会所",
+        "description": "呉市神山1丁目19-29",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.571919,
+          34.278063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "南ハイツ自治会館",
+        "description": "呉市神山3丁目3-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5677698,
+          34.2874185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "第３団地老人集会所",
+        "description": "呉市焼山東2丁目2-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5652328,
+          34.29535171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "道心寺礼拝堂",
+        "description": "呉市押込6丁目3-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5745428,
+          34.31099888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "栃原自治会館",
+        "description": "呉市栃原町西谷683-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5881603,
+          34.2858716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "苗代自治会館",
+        "description": "呉市苗代町字岡ノ台544-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.587294,
+          34.29632227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "郷原まちづくりセンター",
+        "description": "呉市郷原町字飛垣内1585-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6359421,
+          34.3000124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "郷原小学校",
+        "description": "呉市郷原町1584-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6352733,
+          34.30096659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "郷原中学校",
+        "description": "呉市郷原町1706",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.638087,
+          34.29774927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "グリーンヒル郷原",
+        "description": "呉市郷原野路の里2丁目3-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6516831,
+          34.29985871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "浄光寺",
+        "description": "呉市郷原町1912",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6335835,
+          34.30205008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）下蒲刈中学校　",
+        "description": "呉市下蒲刈町下島2119",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6776952,
+          34.19287083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "下蒲刈市民センター",
+        "description": "呉市下蒲刈町下島2361-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6832473,
+          34.18643002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "下蒲刈農村環境改善センター",
+        "description": "呉市下蒲刈町下島1730",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6748252,
+          34.19158848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "下蒲刈まちづくりセンター（大津会館）",
+        "description": "呉市下蒲刈町下島1628-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6715094,
+          34.1923738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "正念寺",
+        "description": "呉市下蒲刈町下島3314-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6615965,
+          34.17566613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大地蔵集会所",
+        "description": "呉市下蒲刈町下島3290-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6621222,
+          34.17433469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "川尻まちづくりセンター",
+        "description": "呉市川尻町東1丁目1-21",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6960035,
+          34.2352807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "川尻小学校",
+        "description": "呉市川尻町久俊1丁目5-24",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6936436,
+          34.2384328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "川尻中学校",
+        "description": "呉市川尻町西1丁目23-47",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6924849,
+          34.23188681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "小仁方文化会館",
+        "description": "呉市川尻町小仁方1丁目23-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6777946,
+          34.2139844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "森・沖田コミュニティホーム",
+        "description": "呉市川尻町西1丁目29-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6924034,
+          34.2297878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "森文化会館",
+        "description": "呉市川尻町西3丁目1-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.691141,
+          34.2335698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "西の宮地区会館",
+        "description": "呉市川尻町西4丁目4-18",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6894419,
+          34.227713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "岩戸自治会館",
+        "description": "呉市川尻町西6丁目5-83",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6836148,
+          34.2187608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "原山会館",
+        "description": "呉市川尻町森3丁目11-31",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.685833,
+          34.2361807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "久俊文化会館",
+        "description": "呉市川尻町久俊2丁目10-27",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6951042,
+          34.2408436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "川尻町転作促進研修所",
+        "description": "呉市川尻町久筋1丁目7-27",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7008555,
+          34.2409249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "まち文化会館",
+        "description": "呉市川尻町東3丁目14-23",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6991782,
+          34.2374895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "小用文化会館",
+        "description": "呉市川尻町小用1丁目13-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7182154,
+          34.2398289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "かわじり中央会館",
+        "description": "呉市川尻町東1丁目8-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.697707,
+          34.235467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "川尻福祉センターふれあい",
+        "description": "呉市川尻町西2丁目3-33",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6938857,
+          34.2353943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "音戸まちづくりセンター",
+        "description": "呉市音戸町南隠渡1丁目7-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5335976,
+          34.1881785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）奥内小学校",
+        "description": "呉市音戸町畑3丁目27-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5233904,
+          34.16064187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "音戸小学校",
+        "description": "呉市音戸町南隠渡1丁目12-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.534548,
+          34.196573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "音戸中学校",
+        "description": "呉市音戸町南隠渡4丁目15-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5296828,
+          34.18276233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "早瀬パブリックセンター",
+        "description": "呉市音戸町早瀬2丁目53-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.495459,
+          34.151632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "波多見小学校",
+        "description": "呉市音戸町波多見9丁目11-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5452128,
+          34.17578152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "明徳中学校",
+        "description": "呉市音戸町藤脇1丁目30-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.509644,
+          34.15087577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "音戸高等学校",
+        "description": "呉市音戸町北隠渡1丁目1-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5322819,
+          34.19318587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大浦崎体育館（大浦崎スポーツセンター）",
+        "description": "呉市音戸町波多見6丁目20-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5549948,
+          34.1746964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "せとぎん会館",
+        "description": "呉市音戸町鰯浜2丁目4-21",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.534597,
+          34.194482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "引地区集会所",
+        "description": "呉市音戸町引地1丁目4-18",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.535942,
+          34.196099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "高須集会所",
+        "description": "呉市音戸町高須2丁目3-44",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5372038,
+          34.1866461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "先奥区自治会館",
+        "description": "呉市音戸町先奥2丁目3-29",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.521443,
+          34.158159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大浦崎会館（大浦崎スポーツセンター）",
+        "description": "呉市音戸町波多見6丁目20-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5549948,
+          34.1746964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "坪井区自治会館",
+        "description": "呉市音戸町坪井2丁目7-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.532866,
+          34.198276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "田原保健福祉活動センター",
+        "description": "呉市音戸町田原2丁目3-16",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4987382,
+          34.17566613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "渡子区自治会館（旧渡子小学校）",
+        "description": "呉市音戸町渡子2丁目23-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.513155,
+          34.19025729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "藤脇憩いの家",
+        "description": "呉市音戸町藤脇2丁目8-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.505028,
+          34.14731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "南隠渡区集会所",
+        "description": "呉市音戸町南隠渡1丁目4-26",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.532153,
+          34.188183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "波多見コミュニティセンター",
+        "description": "呉市音戸町波多見2丁目17-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.551599,
+          34.183191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "畑区自治会館",
+        "description": "呉市音戸町畑1丁目27-31",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.530803,
+          34.165452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "北隠渡区集会所",
+        "description": "呉市音戸町北隠渡1丁目7-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.532378,
+          34.191469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "有清区自治会館",
+        "description": "呉市音戸町有清1丁目23-26",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.522443,
+          34.162286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "倉橋まちづくりセンター釣士田分館",
+        "description": "呉市倉橋町7529",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5098488,
+          34.145799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "倉橋まちづくりセンター",
+        "description": "呉市倉橋町431",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5119768,
+          34.1019201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "倉橋小中学校",
+        "description": "呉市倉橋町383-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5146276,
+          34.10229934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）倉橋小学校",
+        "description": "呉市倉橋町963",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5068223,
+          34.10576398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）倉橋東小学校",
+        "description": "呉市倉橋町11161-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5404572,
+          34.10018495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "明徳小学校",
+        "description": "呉市倉橋町7490",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5085497,
+          34.14633416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "鹿島社会教育施設",
+        "description": "呉市倉橋町18733",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.531856,
+          34.068824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "鹿老渡社会教育施設",
+        "description": "呉市倉橋町16537",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.551065,
+          34.071368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "倉橋体育館",
+        "description": "呉市倉橋町539-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5119293,
+          34.10281016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "農業技術拠点センター",
+        "description": "呉市倉橋町894",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5058085,
+          34.10495557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "宇和木老人集会所",
+        "description": "呉市倉橋町5921-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4992022,
+          34.12832289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "海越生活改善センター",
+        "description": "呉市倉橋町15101-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.548949,
+          34.087849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "才ノ木老人集会所",
+        "description": "呉市倉橋町597-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.509845,
+          34.103522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "鹿島下老人集会所",
+        "description": "呉市倉橋町乙17738",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.522345,
+          34.052181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "鹿島瀬戸コミュニティホーム",
+        "description": "呉市倉橋町4279-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.514383,
+          34.108457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "鹿島中コミュニティホーム",
+        "description": "呉市倉橋町18650-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.530458,
+          34.06620531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "鹿島中老人集会所",
+        "description": "呉市倉橋町18320-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5274754,
+          34.05877489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "重生コミュニティホーム",
+        "description": "呉市倉橋町5345-20",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.461257,
+          34.11340346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "重生生活改善センター",
+        "description": "呉市倉橋町5786-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4746037,
+          34.11960337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "須川説教所",
+        "description": "呉市倉橋町3296番地の2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4883,
+          34.09408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "西宇土老人集会所",
+        "description": "呉市倉橋町3904-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4718571,
+          34.08827941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "石原老人集会所",
+        "description": "呉市倉橋町2390-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.502681,
+          34.10366744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "倉橋東センター",
+        "description": "呉市倉橋町11959-25",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.543914,
+          34.09902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大向老人集会所",
+        "description": "呉市倉橋町4492-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4586821,
+          34.09304182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大迫コミュニティホーム",
+        "description": "呉市倉橋町14105-10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.57122,
+          34.116682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "長谷老人集会所",
+        "description": "呉市倉橋町8191-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5310373,
+          34.14406104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "灘コミュニティホーム",
+        "description": "呉市倉橋町5869-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.483823,
+          34.126821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "尾曽郷老人集会所",
+        "description": "呉市倉橋町2807-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4918556,
+          34.09293521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "尾立生活改善センター",
+        "description": "呉市倉橋町9964-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.532936,
+          34.103866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "蒲刈小学校",
+        "description": "呉市蒲刈町向771",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6919645,
+          34.18569117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大浦集会所（旧蒲刈小学校）",
+        "description": "呉市蒲刈町大浦5116",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7538216,
+          34.17942954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "蒲刈市民センター",
+        "description": "呉市蒲刈町宮盛1-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7322191,
+          34.19718588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "蒲刈中学校",
+        "description": "呉市蒲刈町向771",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6923078,
+          34.18445308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "蒲刈まちづくりセンター",
+        "description": "呉市蒲刈町向1112-29",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6840373,
+          34.1880035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "蒲刈町開発総合センター",
+        "description": "呉市蒲刈町田戸2308-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.722472,
+          34.196837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "宮盛集会所",
+        "description": "呉市蒲刈町宮盛字前田913-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7362878,
+          34.19456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "蒲刈介護予防センター",
+        "description": "呉市蒲刈町大浦字宮田新開5109-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.75345,
+          34.18003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "向清水集会所",
+        "description": "呉市蒲刈町向2535-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6949981,
+          34.18826047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "向コミュニティセンター",
+        "description": "呉市蒲刈町向3206番地1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6888152,
+          34.1913104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "安浦まちづくりセンター",
+        "description": "呉市安浦町中央4丁目3-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7435157,
+          34.2819605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）野路東小学校",
+        "description": "呉市安浦町女子畑639",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7476284,
+          34.30867481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "安浦中学校",
+        "description": "呉市安浦町中央4丁目2-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7438974,
+          34.28273791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "安登小学校",
+        "description": "呉市安浦町安登西5丁目7-19",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7223325,
+          34.25581092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）三津口小学校",
+        "description": "呉市安浦町三津口2丁目27-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7566004,
+          34.28404104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "安浦小学校",
+        "description": "呉市安浦町内海北1丁目2-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.738348,
+          34.2857948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "コミュニティいちざこ",
+        "description": "呉市安浦町安登西8丁目4-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.715883,
+          34.253185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "塩谷自治会館",
+        "description": "呉市安浦町安登3084-31",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7464724,
+          34.24442841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "奥条自治会館",
+        "description": "呉市安浦町安登西3丁目6-20",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7208157,
+          34.25696427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "岡谷自治会館",
+        "description": "呉市安浦町安登西2丁目9-18",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.724488,
+          34.259865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "原畑集会所",
+        "description": "呉市安浦町原畑348-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7215332,
+          34.2800917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "向野原自治会館",
+        "description": "呉市安浦町安登西5丁目20-50",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.721447,
+          34.253377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "三津口憩の家",
+        "description": "呉市安浦町三津口2丁目18-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.756741,
+          34.282575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "三津口西自治会館",
+        "description": "呉市安浦町中央6丁目2-40",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.748719,
+          34.282888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "市原集会所",
+        "description": "呉市安浦町中畑1385-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.696594,
+          34.29583478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "女子畑自治会館",
+        "description": "呉市安浦町女子畑1788-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7476284,
+          34.30867481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "小田野原自治会館",
+        "description": "呉市安浦町安登西10丁目1-14",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.71645,
+          34.255668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "水尻集会所",
+        "description": "呉市安浦町水尻1丁目14-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.750566,
+          34.273263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "晴海園自治会館",
+        "description": "呉市安浦町中央5丁目1-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.74518,
+          34.282732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "赤向坂自治会館",
+        "description": "呉市安浦町赤向坂390-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7295449,
+          34.30681595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "跡条自治会館",
+        "description": "呉市安浦町安登東5丁目8-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7238566,
+          34.25120899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大谷自治会館",
+        "description": "呉市安浦町安登東6丁目5-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.718547,
+          34.246828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "中央ハイツ自治会館",
+        "description": "呉市安浦町中央ﾊｲﾂ13-32",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.711573,
+          34.251199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "藤木自治会館",
+        "description": "呉市安浦町赤向坂1093",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7424785,
+          34.30070957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "内海南自治会館",
+        "description": "呉市安浦町中央3丁目2-9",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.740787,
+          34.282189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "内平自治会館",
+        "description": "呉市安浦町内平593-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.717762,
+          34.27634387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "日之浦自治会館",
+        "description": "呉市安浦町安登1167-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7514881,
+          34.25664892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "老人福祉センター安浦内海会館",
+        "description": "呉市安浦町中央北2丁目6-32",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7413461,
+          34.285317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "中畑自治会館",
+        "description": "呉市安浦町中畑434-7",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7052621,
+          34.3034274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "中切自治会館",
+        "description": "呉市安浦町中切1023-4",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7259562,
+          34.2705797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "内海北自治会館",
+        "description": "呉市安浦町内海北4丁目13-13",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7315274,
+          34.2928887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "安浦会館",
+        "description": "呉市安浦町内海南4丁目6-21",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.736337,
+          34.27788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "子之浦自治会館",
+        "description": "呉市安浦町三津口3丁目14-22",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7615597,
+          34.282806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "瑞雲寺",
+        "description": "呉市安浦町三津口1丁目21-14",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7536767,
+          34.2850589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "豊浜まちづくりセンター豊島分館",
+        "description": "豊浜町大字豊島3959-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7967577,
+          34.1738292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "豊浜まちづくりセンター",
+        "description": "豊浜町大字豊島3526-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7981699,
+          34.1761052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "豊浜中学校",
+        "description": "呉市豊浜町大字豊島3438",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7959967,
+          34.18006859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "（旧）豊島小学校",
+        "description": "呉市豊浜町大字豊島3690",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7962327,
+          34.17452997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "斎島集会所",
+        "description": "呉市豊浜町大字斎島1605-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.793521,
+          34.119081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "山崎集会所",
+        "description": "呉市豊浜町大字豊島3142-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.795967,
+          34.174002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "大浜集会所",
+        "description": "呉市豊浜町大字大浜622",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.807655,
+          34.16572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "内浦集会所",
+        "description": "呉市豊浜町大字豊島1033-4",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.795712,
+          34.1744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "立花集会所(農業構造改善センター)",
+        "description": "呉市豊浜町大字大浜286",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.80829,
+          34.16873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "豊まちづくりセンター",
+        "description": "呉市豊町大長5915-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.8574762,
+          34.1831325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "豊スポーツセンター",
+        "description": "呉市豊町沖友1132",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.838533,
+          34.162677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "豊小学校",
+        "description": "呉市豊町久比2411-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.8622794,
+          34.18056563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "沖友コミュニティセンター",
+        "description": "呉市豊町沖友1005-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.838533,
+          34.162677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "久比コミュニティセンター",
+        "description": "呉市豊町久比2321-4",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.830106,
+          34.183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "久比東コミュニティセンター",
+        "description": "呉市豊町久比328",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.831335,
+          34.183137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "御手洗港町交流館施設",
+        "description": "呉市豊町御手洗231-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.865067,
+          34.178287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿title": "三角集会所",
+        "description": "呉市豊町久比3955",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4908626,
+          34.1129617
+        ]
+      }
+    }
+  ]
+}
